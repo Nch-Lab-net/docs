@@ -9,7 +9,7 @@ Arduinoの各種関数の日本語リファレンス
 ## **デジタル入出力**
 
 [pinMode()]()  
-[digitalRead()]()  
+[digitalRead()](./functions/digital-io/digitalRead)  
 [digitalWrite()]()
 
 ## **アナログ入出力**
