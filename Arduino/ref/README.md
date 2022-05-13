@@ -10,18 +10,18 @@ Arduinoの各種関数の日本語リファレンス
 
 [pinMode()]()  
 [digitalRead()](./functions/digital-io/digitalRead)  
-[digitalWrite()]()
+[digitalWrite()](./functions/digital-io/digitalWrite)  
 
 ## **アナログ入出力**
 
 [analogReference()]()  
 [analogRead()]()  
-[analogWrite()]()
+[analogWrite()]()  
 
 ## **Zero、Due、MKRファミリー**
 
 [analogReadResolution()]()  
-[analogWriteResolution()]()
+[analogWriteResolution()]()  
 
 ## **高度な入出力**
 
