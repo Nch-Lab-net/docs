@@ -8,57 +8,244 @@ Arduinoの各種関数の日本語リファレンス
 
 ## **デジタル入出力**
 
-[pinMode()](./funtions/digital-io/pinMode)  
-[digitalRead()](./funtions/digital-io/digitalRead)  
-[digitalWrite()](./funtions/digital-io/digitalWrite)
+[pinMode()]()  
+[digitalRead()]()  
+[digitalWrite()]()
 
 ## **アナログ入出力**
 
-[analogReference()](./funtions/analog-io/analogReference)  
-[analogRead()](./funtions/analog-io/analogRead)  
-[analogWrite()](./funtions/analog-io/analogWrite)
+[analogReference()]()  
+[analogRead()]()  
+[analogWrite()]()
 
 ## **Zero、Due、MKRファミリー**
 
-[analogReadResolution()](./funtions/zero-due-mkr/analogReadResolution)  
-[analogWriteResolution()](./funtions/zero-due-mkr/analogWriteResolution)
+[analogReadResolution()]()  
+[analogWriteResolution()]()
 
 ## **高度な入出力**
 
-[tone()](./funtions/advanced-io/tone)  
-[noTone()](./funtions/advanced-io/notone)  
-[pulseIn()](./funtions/advanced-io/pulseIn)  
-[pulseInLong()](./funtions/advanced-io/pulseInLong)  
-[shiftIn()](./funtions/advanced-io/shiftIn)  
-[shiftOut()](./funtions/advanced-io/shiftOut)  
+[tone()]()  
+[noTone()]()  
+[pulseIn()]()  
+[pulseInLong()]()  
+[shiftIn()]()  
+[shiftOut()]()  
 
 ## **時間**
 
-[delay()](./funtions/time/delay)  
-[delayMicroseconds()](./funtions/time/delayMicroseconds)  
-[micros()](./funtions/time/micros)  
-[millis()](./funtions/time/millis)  
+[delay()]()  
+[delayMicroseconds()]()  
+[micros()]()  
+[millis()]()  
 
 ## **計算**
 
-[abs()](./functions/math/abs)  
-[constrain()](./functions/math/constrain)  
-[map()](./functions/math/map)  
-[max()](./functions/math/max)  
-[min()](./functions/math/min)  
-[pow()](./functions/math/pow)  
-[sq()](./functions/math/sq)  
-[sqrt()](./functions/math/sqrt)  
+[abs()]()  
+[constrain()]()  
+[map()]()  
+[max()]()  
+[min()]()  
+[pow()]()  
+[sq()]()  
+[sqrt()]()  
 
 ## **三角関数**
 
-[sin()](./functions/trigonometry/sin)  
-[cos()](./functions/trigonometry/cos)  
-[tan()](./functions/trigonometry/tan)  
+[sin()]()  
+[cos()]()  
+[tan()]()  
+
+## **文字**
+
+[isAlpha()]()  
+[isAlphaNumeric()]()  
+[isAscii()]()  
+[isControl()]()  
+[isDigit()]()  
+[isGraph()]()  
+[isHexademicalDigit()]()  
+[isLowerCase()]()  
+[isPrintable()]()  
+[isPunct()]()  
+[isSpace()]()  
+[isUpperCase()]()  
+[isWhitespace()]()  
+
+## **乱数**
+
+[random()]()  
+[randomSeed()]()  
+
+## **ビット・バイト**
+
+[bit()]()  
+[bitClear()]()  
+[bitRead()]()  
+[bitSet()]()  
+[bitWrite()]()  
+[highByte()]()  
+[lowByte()]()  
+
+## **外部割り込み**
+
+[attachInterrupt()]()  
+[detachInterrupt()]()  
+
+## **割り込み**
+
+[interrupts()]()  
+[noInterrupts()]()  
+
+## **通信**
+
+[Serial()]()  
+[SPI()]()  
+[Stream()]()  
+[Wire()]()  
+
+## **USB**
+
+[Keyboard()]()  
+[Mouse()]()  
+
+# Arduinoで使える変数
+
+## **定数**
+
+[HIGH]()｜[LOW]()  
+[INPUT]()｜[OUTPUT]()｜[INPUT_PULLUP]()  
+[LED_BUILTIN]()  
+[true]()｜[false]()  
+[Floating Point Constants]()  
+[Integer Constants]()  
+
+## **型変換**
+
+[(unsigned int)]()  
+[(unsigned long)]()  
+[byte()]()  
+[char()]()  
+[float()]()  
+[int()]()  
+[long()]()  
+[word()]()  
+
+## **データ型**
+
+[array]()  
+[bool]()  
+[boolean]()  
+[byte]()  
+[char]()  
+[double]()  
+[float]()  
+[int]()  
+[long]()  
+[short]()  
+[size_t]()  
+[string]()  
+[String()]()  
+[unsigned char]()  
+[unsigned int]()  
+[unsigned long]()  
+[vold]()  
+[word]()  
+
+## **変数のスコープと修飾子**
+
+[const]()  
+[scope]()  
+[static]()  
+[volatile]()  
+
+## **ユーティリティ**
+
+[PROGMEM]()  
+[sizeof()]()  
+
+# Arduinoの構造
+
+## **スケッチ**
+
+[loop()]()  
+[setup()]()  
+
+## **制御構造**
+
+[break]()  
+[continue]()  
+[do...while]()  
+[else]()  
+[for]()  
+[goto]()  
+[if]()  
+[return]()  
+[switch...case]()  
+[while]()  
+
+## **その他の構文**
+
+[#define]()  
+[#include]()  
+[/* */]()  
+[//]()  
+[;]()  
+[{}]()  
+
+## **算術演算子**
+
+[%]()  
+[*]()  
+[+]()  
+[-]()  
+[/]()  
+[=]()  
+
+## **比較演算子**
+
+[!=]()  
+[<]()  
+[<=]()  
+[==]()  
+[>]()  
+[>=]()  
+
+## **論理演算子**
+
+[!]()  
+[&&]()  
+[||]()  
+
+## **ポインタ・アクセス演算子**
+
+[&]()  
+[*]()  
+
+## **ビット演算子**
+
+[&]()  
+[<<]()  
+[>>]()  
+[^]()  
+[|]()  
+[~]()  
+
+## **複合演算子**
+
+[%=]()  
+[&=]()  
+[*=]()  
+[++]()  
+[+=]()  
+[--]()  
+[-=]()  
+[/=]()  
+[^=]()  
+[|=]()  
 
 # 出典
 
 このページは[Arduino公式のページ](https://arduino.cc/reference/en/)を翻訳したものです（一部意訳を含みます）
 
-[一覧に戻る](https://docs.nchlab.net/Arduino/ref/)  
-[トップページに戻る](https://pages.nchlab.net/)
+[一覧に戻る](https://docs.nchlab.net/Arduino/ref/)
