@@ -14,7 +14,7 @@ Arduinoの各種関数の日本語リファレンス
 
 ## **アナログ入出力**
 
-[analogReference()]()  
+[analogReference()](./functions/analog-io/analogReference)  
 [analogRead()](./functions/analog-io/analogRead)  
 [analogWrite()]()  
 
