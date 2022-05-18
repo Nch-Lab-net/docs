@@ -15,7 +15,7 @@ Arduinoの各種関数の日本語リファレンス
 ## **アナログ入出力**
 
 [analogReference()]()  
-[analogRead()]()  
+[analogRead()](./functions/analog-io/analogRead)  
 [analogWrite()]()  
 
 ## **Zero、Due、MKRファミリー**
