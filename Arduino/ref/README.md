@@ -16,7 +16,7 @@ Arduinoの各種関数の日本語リファレンス
 
 [analogReference()](./functions/analog-io/analogReference)  
 [analogRead()](./functions/analog-io/analogRead)  
-[analogReadResolution()]()  
+[analogReadResolution()](./functions/analog-io/analogReadResolution)  
 [analogWrite()](./functions/analog-io/analogWrite)  
 [analogWriteResolution()]()  
 
