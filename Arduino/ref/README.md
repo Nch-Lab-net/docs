@@ -16,7 +16,7 @@ Arduinoの各種関数の日本語リファレンス
 
 [analogReference()](./functions/analog-io/analogReference)  
 [analogRead()](./functions/analog-io/analogRead)  
-[analogWrite()]()  
+[analogWrite()](./functions/analog-io/analogWrite)  
 
 ## **Zero、Due、MKRファミリー**
 
