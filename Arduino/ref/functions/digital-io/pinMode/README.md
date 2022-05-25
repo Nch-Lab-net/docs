@@ -43,6 +43,10 @@ void loop() {
 
 アナログ入力ピンは、`A0` `A1`などのように指定することでデジタルピンとして使用できます。例外は、アナログ入力としてのみ使用できるArduino Nano、Pro Mini、およびMiniの`A6`および`A7`ピンです
 
+# 関連
+
+[デジタルピンの説明](./../digital-pins)  
+
 # 出典
 
 このページは[Arduino公式のページ](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/)を翻訳したものです（一部意訳を含みます）
