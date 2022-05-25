@@ -52,6 +52,7 @@ void loop() {
 # 関連
 
 [デジタルピンの説明](./../digital-pins)  
+[pinMode()](./../pinMode)  
 
 # 出典
 
