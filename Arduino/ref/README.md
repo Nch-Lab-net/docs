@@ -11,6 +11,7 @@ Arduinoの各種関数の日本語リファレンス
 [pinMode()](./functions/digital-io/pinMode)  
 [digitalRead()](./functions/digital-io/digitalRead)  
 [digitalWrite()](./functions/digital-io/digitalWrite)  
+[デジタルピンの説明](./functions/digital-io/digital-pins)  
 
 ## **アナログ入出力**
 
