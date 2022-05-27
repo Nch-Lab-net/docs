@@ -23,12 +23,12 @@ Arduinoの各種関数の日本語リファレンス
 
 ## **高度な入出力**
 
-[tone()]()  
-[noTone()]()  
+[tone()](./functions/advanced-io/tone)  
+[noTone()](./functions/advanced-io/noTone)  
 [pulseIn()]()  
 [pulseInLong()]()  
-[shiftIn()]()  
-[shiftOut()]()  
+[shiftIn()](./functions/advanced-io/shiftIn)  
+[shiftOut()](./functions/advanced-io/shiftOut)  
 
 ## **時間**
 
