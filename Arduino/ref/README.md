@@ -115,8 +115,8 @@ Arduinoの各種関数の日本語リファレンス
 [INPUT]()｜[OUTPUT]()｜[INPUT_PULLUP]()  
 [LED_BUILTIN]()  
 [true]()｜[false]()  
-[Floating Point Constants]()  
-[Integer Constants]()  
+[浮動小数点型]()  
+[整数型]()  
 
 ## **型変換**
 
