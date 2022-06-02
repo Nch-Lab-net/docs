@@ -25,17 +25,17 @@ Arduinoの各種関数の日本語リファレンス
 
 [tone()](./functions/advanced-io/tone)  
 [noTone()](./functions/advanced-io/noTone)  
-[pulseIn()]()  
-[pulseInLong()]()  
+[pulseIn()](./functions/advanced-io/pulseIn)  
+[pulseInLong()](./functions/advanced-io/pulseInLong)  
 [shiftIn()](./functions/advanced-io/shiftIn)  
 [shiftOut()](./functions/advanced-io/shiftOut)  
 
 ## **時間**
 
-[delay()]()  
-[delayMicroseconds()]()  
-[micros()]()  
-[millis()]()  
+[delay()](./functions/time/delay)  
+[delayMicroseconds()](./functions/time/delayMicroseconds)  
+[micros()](./functions/time/micros)  
+[millis()](./functions/time/millis)  
 
 ## **計算**
 
