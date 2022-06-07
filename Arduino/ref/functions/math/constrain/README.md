@@ -34,9 +34,18 @@ sensVal = constrain(sensVal, 10, 150);
 
 constrain関数の実装の都合上、括弧内で他の関数を実行するのは避けてください。思わぬ結果を招くことがあります
 
-# 関連
+以下のコードでは誤った結果を生みますので避けてください
 
+```cpp
+int constrainedInput = constrain(Serial.parseInt(), minimumValue, maximumValue);
+```
 
+代わりに次のコードを使用してください
+
+```cpp
+int input = Serial.parseInt();  // 関数の外で実行する
+int constrainedInput = constrain(input, minimumValue, maximumValue);
+```
 
 # 出典
 
