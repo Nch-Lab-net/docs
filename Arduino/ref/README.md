@@ -39,14 +39,14 @@ Arduinoの各種関数の日本語リファレンス
 
 ## **計算**
 
-[abs()]()  
-[constrain()]()  
-[map()]()  
-[max()]()  
-[min()]()  
-[pow()]()  
-[sq()]()  
-[sqrt()]()  
+[abs()](./functions/math/abs)  
+[constrain()](./functions/math/constrain)  
+[map()](./functions/math/map)  
+[max()](./functions/math/max)  
+[min()](./functions/math/min)  
+[pow()](./functions/math/pow)  
+[sq()](./functions/math/sq)  
+[sqrt()](./functions/math/sqrt)  
 
 ## **三角関数**
 
