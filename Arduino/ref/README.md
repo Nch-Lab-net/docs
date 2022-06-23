@@ -50,9 +50,9 @@ Arduinoの各種関数の日本語リファレンス
 
 ## **三角関数**
 
-[sin()]()  
-[cos()]()  
-[tan()]()  
+[sin()](./functions/trigonometry/sin)  
+[cos()](./functions/trigonometry/cos)  
+[tan()](./functions/trigonometry/tan)  
 
 ## **文字**
 
