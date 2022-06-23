@@ -36,6 +36,10 @@ int input = Serial.parseInt();  // 他の関数を括弧の外で実行する
 int inputSquared = sq(input);
 ```
 
+# 関連
+
+[double](./../../../constant/double)  
+
 # 出典
 
 このページは[Arduino公式のページ](https://www.arduino.cc/reference/en/language/functions/math/sq/)を翻訳したものです（一部意訳を含みます）
