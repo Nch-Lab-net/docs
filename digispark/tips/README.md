@@ -79,4 +79,6 @@ DigiKeyboard.sendKeySroke(KEY_S, MOD_GUI_LEFT | MOD_SHIFT_LEFT);
 | Altキー（右） | MOD_ALT_RIGHT | 1 << 6 |
 | Windowsキー（右） | MOD_GUI_RIGHT | 1 << 7 |
 
+`fuga`に当てはまる部分、見ての通りビットシフトさせて定義されているので、複数同時押しするときは`MOD_GUI_LEFT | MOD_SHIFT_LEFT`か`MOD_GUI_LEFT + MOD_SHIFT_LEFT`のようにしてあげれば良きかと思います
+
 <footer><div align="right">© Nch-Lab</div></footer>
